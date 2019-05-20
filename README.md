@@ -1,5 +1,5 @@
 # H-Town Hubbub!
-**H-Town Hubbub! is a 24 hour project designed by Richard Lorenzini, Gregory Priznar, Shaun Colley, Kanwal Kazmi, Kevin Peery, and Sean Wyse. The project was designed during a Houston Hackathon event.**
+**H-Town Hubbub! is a 24 hour project designed by Gregory Priznar, Richard Lorenzini, Shaun Colley, Kanwal Kazmi, Kevin Peery, and Sean Wyse. The project was designed during the 2019 Houston Hackathon.**
 <p>The website is live <a href="https://optimistic-yonath-25c712.netlify.com/">HERE.</a> </p>
 
 
