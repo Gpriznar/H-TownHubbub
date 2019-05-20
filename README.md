@@ -15,12 +15,12 @@
 
 
 **Contribute Decibel Readings**
-<img src="images/permissions.png"/>
+<img src="permissions.png"/>
 When you click on the **Contribute** button at the bottom of the page, the website checks for both geolocation and audio recording access. If one or neither are currently allowed, the website will ask you for premission to use them.
 
 **NOTE:** the website only uses your location and audio recorder to upload an average decibel reading to the website's server. After the data is sent, the audio recorder is disabled and your location is not tracked.
 
 **Mobile Responsiveness**
-<img src="/images/mobile.png"/>
+<img src="mobile.png"/>
 
 While on mobile, the application's descriptive bar on the right hand side is removed for ease-of-use. The application is fully functional on any mobile device, just as it would be on any desktop browser.
