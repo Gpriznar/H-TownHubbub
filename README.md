@@ -20,8 +20,7 @@ HTML, CSS, JavaScript, React.js, Node,js, Express, Sequelize, Heroku
 **Contribute Decibel Readings**
 <img src="permissions.png"/>
 When you click on the **Contribute** button at the bottom of the page, the website checks for both geolocation and audio recording access. If one or neither are currently allowed, the website will ask you for premission to use them.
-
-**NOTE:** the website only uses your location and audio recorder to upload an average decibel reading to the website's server. After the data is sent, the audio recorder is disabled and your location is not tracked.
+**NOTE:** The website only uses your location and audio recorder to upload an average decibel reading to the website's server. After the data is sent, the audio recorder is disabled and your location is not tracked.
 
 **Mobile Responsiveness**
 <img src="mobile.png"/>
