@@ -1,6 +1,7 @@
 # H-Town Hubbub!
 This application is a 24 hour project designed by Gregory Priznar, Richard Lorenzini, Shaun Colley, Kanwal Kazmi, Kevin Peery, and Sean Wyse during the 2019 Houston Hackathon.
 <p>The website is live <a href="https://optimistic-yonath-25c712.netlify.com/">HERE.</a> </p>
+<p>(Works best in Google Chrome)</p>
 
 # Features
 HTML, CSS, JavaScript, React.js, Node,js, Express, Sequelize, Heroku
