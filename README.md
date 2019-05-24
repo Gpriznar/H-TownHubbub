@@ -4,7 +4,7 @@ This application is a 24 hour project designed by Gregory Priznar, Richard Loren
 <p>(Works best in Google Chrome)</p>
 
 # Features
-HTML, CSS, JavaScript, React.js, Node,js, Express, Sequelize, Heroku
+HTML, CSS, JavaScript, React.js, Node,js, Express, Sequelize, Heroku, Uber's React Map
 
 
 # Watch It In Action
