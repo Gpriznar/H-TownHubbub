@@ -6,14 +6,3 @@
 
 # Watch It In Action
 <img src="decibel.gif"/>
-
-
-# How It Works
-**Heat Map**
-<img src="homepage.png"/>
-<p>EXPLAIN STUFF</p>
-
-
-**Contribute Decibel Readings**
-<p>EXPLAIN STUFF</p> 
-
